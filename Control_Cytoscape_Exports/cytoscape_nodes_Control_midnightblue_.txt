@@ -1,0 +1,23 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+RP11-831H9.16	RP11-831H9.16	midnightblue
+AC024580.1	AC024580.1	midnightblue
+CDHR5	CDHR5	midnightblue
+CECR2	CECR2	midnightblue
+AC005841.1	AC005841.1	midnightblue
+SLC34A3	SLC34A3	midnightblue
+TRIM56	TRIM56	midnightblue
+GREB1L	GREB1L	midnightblue
+GNL3L	GNL3L	midnightblue
+PVRIG	PVRIG	midnightblue
+TCP11L2	TCP11L2	midnightblue
+TBC1D10C	TBC1D10C	midnightblue
+AL133216.1	AL133216.1	midnightblue
+SERINC5	SERINC5	midnightblue
+ZNF70	ZNF70	midnightblue
+INE1	INE1	midnightblue
+MAVS	MAVS	midnightblue
+CD27	CD27	midnightblue
+TAS2R5	TAS2R5	midnightblue
+VMAC	VMAC	midnightblue
+MYO18A	MYO18A	midnightblue
+JMJD7-PLA2G4B	JMJD7-PLA2G4B	midnightblue
